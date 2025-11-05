@@ -101,7 +101,7 @@ Contributions are welcome! Feel free to:
 
 ## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the NO OBJECTION LICENSE.
 
 ## 🎯 Future Enhancements
 
@@ -115,7 +115,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-Created by [Your Name] - feel free to contact me!
+Created by [SHESHAV ANAND] - feel free to contact me!
 
 ---
 
